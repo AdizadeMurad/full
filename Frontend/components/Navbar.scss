@@ -1,0 +1,14 @@
+.navbar{
+    width: 100%;
+    background-color: red;
+}
+.general{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    gap: 150px;
+
+    a{
+        color: white;
+    }
+}
